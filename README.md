@@ -16,6 +16,9 @@ I am currently a Master's student in Computational Social Science at UC Berkeley
 - Other Tools: Microsoft Office, Google Workspace
 
 ## Data Projects
-[𓇼 Rio Grande du Sol Analysis](https://github.com/chelsjav/RioGrandedoSulAnalysis)
-[𓆉 Feeding Minds Research](https://github.com/chelsjav/FeedingMindsResearch)
+### Rio Grande du Sol Analysis
+[view project](https://github.com/chelsjav/RioGrandedoSulAnalysis)
+
+### Feeding Minds Research
+[view project](https://github.com/chelsjav/FeedingMindsResearch)
 
