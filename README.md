@@ -1,4 +1,3 @@
-# Welcome! I'm Chelsea 𓇼 
 ![giphy](https://github.com/user-attachments/assets/0c5f879f-85b2-45d1-b173-99f4aa953406)
 
 ## About Me
