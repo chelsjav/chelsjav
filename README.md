@@ -1,6 +1,6 @@
 ![giphy](https://github.com/user-attachments/assets/0c5f879f-85b2-45d1-b173-99f4aa953406)
 
-## About Me
+## Hi, I'm Chelsea!
 I am currently a Master's student in Computational Social Science at UC Berkeley, graduating in May 2025. With a strong background in social science and data analysis, I specialize in leveraging Python, R, and machine learning to extract insights from complex datasets. My experience spans geospatial research, operations management, and community-focused initiatives, where I’ve streamlined workflows, optimized performance, and developed data-driven solutions. Passionate about turning data into actionable insights, I am eager to apply my skills in real-world settings to drive impactful change. Connect with me on [LinkedIn](www.linkedin.com/in/chelsjav)!
 
 ## Education
