@@ -17,8 +17,8 @@ I am currently a Master's student in Computational Social Science at UC Berkeley
 
 ## Data Projects
 ### Rio Grande du Sol Analysis
-[view project](https://github.com/chelsjav/RioGrandedoSulAnalysis)
+[view project](https://github.com/chelsjav/rio-grande-do-sul-analysis)
 
 ### Feeding Minds Research
-[view project](https://github.com/chelsjav/FeedingMindsResearch)
+[view project](https://github.com/chelsjav/feeding-minds-research)
 
