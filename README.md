@@ -27,3 +27,5 @@ I am currently a Master's student in Computational Social Science at UC Berkeley
 **Exploring the Gender Wage Gap** →
 [view project](https://github.com/chelsjav/gender-wage-gap)
 
+**Rent Burden and Mobility Trends in San Mateo County** →
+[view project](https://github.com/chelsjav/smc-rent-burden-mobility)
