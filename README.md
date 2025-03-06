@@ -18,7 +18,7 @@ I am currently a Master's student in Computational Social Science at UC Berkeley
 - Other Tools: Microsoft Office, Google Workspace
 
 ## 📁 Data Projects
-**Rio Grande du Sol Analysis** →
+**Rio Grande du Sol Census Analysis** →
 [view project](https://github.com/chelsjav/rio-grande-do-sul-analysis)
 
 **Feeding Minds Research** →
@@ -28,4 +28,4 @@ I am currently a Master's student in Computational Social Science at UC Berkeley
 [view project](https://github.com/chelsjav/gender-wage-gap)
 
 **Rent Burden and Mobility Trends in San Mateo County** →
-[view project](https://github.com/qianzhilie/Compss224a-Project)
+[view project](https://github.com/chelsjav/smc-rent-burden-mobility)
