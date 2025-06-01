@@ -37,6 +37,6 @@ I have a Master's in Computational Social Science from UC Berkeley and a Bachelo
 [view project](https://github.com/chelsjav/rio-grande-do-sul-analysis)
 
 ## 💼 Career
-Nov 2021 - Present **Amazon** Delivery Operations Supervisor
-Jan - Jun 2025 **Institute of Transportation Studies** Data Analyst Intern
-Aug 2023 - May 2024 **Cal State Monterey Bay** Undergraduate Student Researcher
+- Nov 2021 - Present **Amazon** Delivery Operations Supervisor
+- Jan - Jun 2025 **Institute of Transportation Studies** Data Analyst Intern
+- Aug 2023 - May 2024 **Cal State Monterey Bay** Undergraduate Student Researcher
